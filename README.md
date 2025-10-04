@@ -2,19 +2,19 @@
 
 ## SVG
 
-  <img src="logo.svg" alt="Unidrome Logo" width="120"  />
+  <img src="logo.svg" alt="Unidrome Logo" />
 
 ## GIF
 
-  <img src="logo.gif" alt="Unidrome Logo" width="120"  />
+  <img src="logo.gif" alt="Unidrome Logo" />
 
 ## PNG
 
-  <img src="logo.png" alt="Unidrome Logo" width="120"  />
+  <img src="logo.png" alt="Unidrome Logo" />
 
 ## PINK.png
 
-  <img src="pink.png" alt="Unidrome Logo" width="120"  />
+  <img src="pink.png" alt="Unidrome Logo" />
 
 # Design
 

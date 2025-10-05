@@ -20,7 +20,7 @@
 
 | Name  | Hex       |
 | ----- | --------- |
-| GREY  | `#7D7D7D` |
+| GREY  | `#AAAAAA` |
 | BLACK | `#131313` |
 | WHITE | `#E7E5E4` |
 | RED   | `#F85260` |
